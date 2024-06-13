@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(213, 205, 195);
+}.card{
+    background-color:burlywood;
+  
+    padding: 10px;
+    margin: 10px auto;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    border: 1px solid rgba(0,0,0,0.1);
+    text-decoration: none;
+    color: black;
+    justify-content: center;
+}
+
+
+.title{
+    font-size: 20px;
+}
+
+.blog-content{
+    font-size: 14px;
+    margin:0 ;
+    padding: 0;
+}
+.author-card{
+    display: flex;
+    align-items: center;
+    margin: 10px 5px;
+}
+.author-avtar{
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
