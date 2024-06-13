@@ -1,8 +1,8 @@
 body{
     background-color:rgb(213, 205, 195);
-}.card{
+}
+.card{
     background-color:burlywood;
-  
     padding: 10px;
     margin: 10px auto;
     width: 350px;
