@@ -21,7 +21,7 @@ const blogs=[
        avatar:"https://i.pravatar.cc/150?img=16"
       },
       date:"Jan 10, 2005",
-      categories:[,"Javascript","Web Development"],  
+      categories:["Javascript","Web Development"],  
    },
    {
       id:"Introduction-To-HTML",
@@ -32,7 +32,7 @@ const blogs=[
        avatar:"https://i.pravatar.cc/150?img=1"
       },
       date:"Jan 11, 2007",
-      categories:[,"HTML","Web Development"],  
+      categories:["HTML","Web Development"],  
    },
    {
       id:"Introduction-To-CSS",
@@ -43,7 +43,7 @@ const blogs=[
        avatar:"https://i.pravatar.cc/150?img=23"
       },
       date:"Jan 21, 2010",
-      categories:[,"CSS","Web Development"],  
+      categories:["CSS","Web Development"],  
    },
    {
       id:"Introduction-To-Python",
@@ -54,7 +54,7 @@ const blogs=[
        avatar:"https://i.pravatar.cc/150?img=19"
       },
       date:"Jan 29, 2015",
-      categories:[,"Python","Programming"],  
+      categories:["Python","Programming"],  
    },
    {
       id:"Introduction-To-Java",
@@ -65,7 +65,7 @@ const blogs=[
        avatar:"https://i.pravatar.cc/150?img=20"
       },
       date:"may 4, 2024",
-      categories:[,"Java","Programming"],  
+      categories:["Java","Programming"],  
    }
    
 ]
